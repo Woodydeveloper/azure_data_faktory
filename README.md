@@ -5,9 +5,9 @@ Criando recurso no Azure - DIO Bootcamp
 
 **Crie uma conta no Azure**
 Acesse o site oficial do Microsoft Azure e crie uma conta. Caso seja estudante, utilize seu e-mail institucional para aproveitar benefícios acadêmicos.
-![image](https://github.com/user-attachments/assets/b526cc2f-ade3-413b-98f8-5b7ecf5d3e2a)
-Acesse sua conta
 Após efetuar o login, clique em "Criar um recurso".
+![image](https://github.com/user-attachments/assets/b526cc2f-ade3-413b-98f8-5b7ecf5d3e2a)
+
 
 **Pesquise pelo recurso "Data Factory"**
 Na barra de pesquisa, digite "Data Factory" e selecione a opção correspondente.
